@@ -45,3 +45,15 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 - Organize solutions topic-wise.
 - Continuously improve problem-solving skills.
 - Build a strong GitHub portfolio for placements.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
