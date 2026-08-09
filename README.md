@@ -53,6 +53,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhik1302op/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sadhik1302op/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -66,16 +67,24 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sadhik1302op/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
