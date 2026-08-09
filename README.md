@@ -51,9 +51,11 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sadhik1302op/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sadhik1302op/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
