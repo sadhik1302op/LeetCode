@@ -56,6 +56,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/sadhik1302op/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
