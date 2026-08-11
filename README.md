@@ -51,6 +51,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sadhik1302op/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhik1302op/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sadhik1302op/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sadhik1302op/LeetCode/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sadhik1302op/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhik1302op/LeetCode/tree/master/0560-subarray-sum-equals-k) |
