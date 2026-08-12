@@ -63,6 +63,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sadhik1302op/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhik1302op/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhik1302op/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadhik1302op/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhik1302op/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhik1302op/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,8 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sadhik1302op/LeetCode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sadhik1302op/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
