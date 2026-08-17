@@ -55,6 +55,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhik1302op/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sadhik1302op/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sadhik1302op/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sadhik1302op/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sadhik1302op/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sadhik1302op/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -86,6 +87,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sadhik1302op/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sadhik1302op/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sadhik1302op/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sadhik1302op/LeetCode/tree/master/0229-majority-element-ii) |
@@ -146,4 +148,8 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sadhik1302op/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
