@@ -54,6 +54,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | [0001-two-sum](https://github.com/sadhik1302op/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhik1302op/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sadhik1302op/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sadhik1302op/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sadhik1302op/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sadhik1302op/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sadhik1302op/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sadhik1302op/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sadhik1302op/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -151,5 +153,6 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sadhik1302op/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
