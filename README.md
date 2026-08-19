@@ -56,6 +56,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 | [0031-next-permutation](https://github.com/sadhik1302op/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sadhik1302op/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sadhik1302op/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sadhik1302op/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sadhik1302op/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sadhik1302op/LeetCode/tree/master/0136-single-number) |
@@ -145,6 +146,7 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sadhik1302op/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sadhik1302op/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -154,5 +156,6 @@ This repository contains my daily Data Structures and Algorithms solutions from 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sadhik1302op/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sadhik1302op/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadhik1302op/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
